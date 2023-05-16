@@ -19,8 +19,7 @@ https://www.bilibili.com/video/BV1ZL4y1u7c4/
     2. 将 oh-my-env 目录拖入 VSCode
     3. 输入 Ctrl + Shift + P，然后输入 Reopen，回车，等待
 6. 等上一步启动完毕之后，新建终端
-    1. 运行 `nvm use system` 和 `node --version` 得到 node 运行环境
-    2. 运行 `rvm use 3` 和 `ruby --version` 得到 ruby 运行环境
+    1. 运行 `rustc --version`
 
 ## 如何升级
 
